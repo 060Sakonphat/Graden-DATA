@@ -1,0 +1,14 @@
+Start your Strapi application with autoReload enabled. [Learn more](https://docs.strapi.io/dev-docs/cli#strapi-develop)
+
+in cmd
+
+```
+npm run develop
+
+Log in to your Strapi account
+Email
+*
+"admin1@lamduan.mfu.ac.th"
+Password
+*
+"Password1"
