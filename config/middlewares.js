@@ -8,7 +8,7 @@ module.exports = [
     },
   },
 ];
-/*
+
 module.exports = [
   // Error Handling Middleware
   'strapi::errors',
@@ -47,4 +47,3 @@ module.exports = [
   // Logging Middleware
   'strapi::logger',
 ];
-*/
